@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "vscode-ext-tst.helloWorld",
-        "title": "Hello World"
+        "title": "Cmd1"
       }
     ]
   },
